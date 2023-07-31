@@ -2,6 +2,22 @@
 
 https://public.tableau.com/views/Tableau-Challenge_16907646378350/CitiBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-## Conclusion
+## Data Cleaning
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Something
+
+## Home Dashboard
+
+Something
+
+## User Analysis
+
+Something
+
+## Trip & Station Analysis
+
+Something
+
+## Geographic Analysis
+
+Something
